@@ -8,7 +8,7 @@
     "node": ">=0.10.0"
   },
   "dependencies": {
-    "mysql": ">=2.5.1"
+    "mysql2": ">=2.5.1"
   },
   "devDependencies": {},
   "repository": {
@@ -19,7 +19,7 @@
     "start": "node index.js"
   },
   "keywords": [
-    "mysql",
+    "mysql2",
     "cluster",
     "tribe",
     "db"
